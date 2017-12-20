@@ -1,0 +1,17 @@
+@media screen and (max-width: 600px) {
+	#navbar{
+	position: relative;
+	}
+	.navheader {
+	position: absolute;
+	top: 10px;
+	right: 15px;
+	font-size: 65px;
+	}
+ .navlist{
+ 	top: 80px;
+ 	right: 15px;
+	position: absolute;
+	font-size: 65px;
+	}
+}
